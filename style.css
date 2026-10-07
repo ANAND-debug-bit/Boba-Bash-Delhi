@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: beige;
+    color: #14213d;
+    line-height: 1.6;
+}
+
+.its-me{
+    width:160px;
+    height:160px;
+    border-radius:50%; 
+}
+
+.container {
+    max-width: 700px;
+    margin-left : 410px;
+    padding: 30px;
+    background-color: white;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.tagline {
+    color: grey;
+    margin-top: 5px;
+}
+
+h2 {
+    margin-top: 30px;
+    border-bottom: 3px solid blue;
+    display: inline-block;
+}
+
